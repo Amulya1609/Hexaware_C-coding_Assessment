@@ -1,0 +1,4 @@
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\PetpalsApp\obj\Debug\net8.0\PetpalsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\PetpalsApp\obj\Debug\net8.0\PetpalsApp.AssemblyInfoInputs.cache
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\PetpalsApp\obj\Debug\net8.0\PetpalsApp.AssemblyInfo.cs
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\PetpalsApp\obj\Debug\net8.0\PetpalsApp.csproj.CoreCompileInputs.cache
