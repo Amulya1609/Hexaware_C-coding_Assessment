@@ -1,0 +1,5 @@
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Util\obj\Debug\net8.0\Util.csproj.AssemblyReference.cache
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Util\obj\Debug\net8.0\Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Util\obj\Debug\net8.0\Util.AssemblyInfoInputs.cache
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Util\obj\Debug\net8.0\Util.AssemblyInfo.cs
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Util\obj\Debug\net8.0\Util.csproj.CoreCompileInputs.cache
