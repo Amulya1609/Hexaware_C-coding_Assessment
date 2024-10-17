@@ -1,0 +1,5 @@
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Exceptions\obj\Debug\net8.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\Amulya\Desktop\Hexaware\Assessment\PetPals\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
